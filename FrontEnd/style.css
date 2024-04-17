@@ -1,0 +1,13 @@
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        #user-info {
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 20px;
+        }
+        #user-info img {
+            max-width: 100px;
+            border-radius: 50%;
+        }
